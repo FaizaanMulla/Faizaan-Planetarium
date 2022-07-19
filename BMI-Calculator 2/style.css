@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Blaka&family=EB+Garamond:ital@1&family=Josefin+Sans&family=Lobster&display=swap');
+input{
+  padding:5px;
+  margin-top:5px;
+  margin-bottom:7px;
+}
+button{
+  padding:5px;
+}
+#form{
+  text-align:center;
+  background:black;
+  color:orange;
+  font-size:2rem;
+}
+body{
+  font-family:'Lobster', cursive;
+  background-image:url('https://thumbs.dreamstime.com/z/gym-24699087.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+#header{
+  font-size:3rem;
+  background:black;
+  color:white;
+}
+#ans{
+  color:orange;
+  font-size:2.5rem;
+  text-align:center;
+  background-color:black;
+}
